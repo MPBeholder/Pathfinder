@@ -26,6 +26,7 @@ Magus Spells Prepared (CL 9th; concentration +19)
 0th — (at will) detect magic, guidance, mending, read magic
 ***
 ## TACTICS
+At the beginning of combat, the Mother activates her Prehensile Hair hex as a standard action. In following rounds she will Evil-Eye whichever target looks the most threatening, following up with a cackle to keep the debuff active as well as applying a Accursed Hex/Spellstrike with Bestow Curse or Ill Omen. If it seems as though she will be unable to hit the target, she begins using castings of other debuff spells like Ill Omen.
 ## STATISTICS
 
 Feats : Extra Arcana + 5
@@ -70,6 +71,7 @@ This attack uses the weapon’s critical range (20, 19–20, or 18–20 and modi
   * Hex Arcana - Cackle
 
 ### Spell recall
+At 4th level, the magus learns to use his arcane pool to recall spells he has already cast. With a swift action he can recall any single magus spell that he has already prepared and cast that day by expending a number of points from his arcane pool equal to the spell’s level (minimum 1). The spell is prepared again, just as if it had not been cast.
 
 ### Hex Magus (SU)
 At 4th level, the hexcrafter magus gains access to a small number of witch’s hexes.
@@ -85,39 +87,14 @@ He cannot select any hex or arcana more than once.
 Accursed Strike (Sp): A hexcrafter magus who can cast bestow curse, major curse, or any spell with the curse descriptor can deliver these prepared spells using the spellstrike ability, even if the spells are not touch attack spells.
 
 ### Knowledge pool
+At 7th level, when a magus prepares his magus spells, he can decide to expend 1 or more points from his arcane pool, up to his Intelligence bonus. For each point he expends, he can treat any one spell from the magus spell list as if it were in his spellbook and can prepare that spell as normal that day. If he does not cast spells prepared in this way before the next time he prepares spells, he loses those spells. He can also cast spells added in this way using his spell recall ability, but only until he prepares spells again.
+
 ### Improved spell combat
-
-# STREGA - Sister
-Middle Age Female Magus (Hexcrafter) 9
-N Medium Female Humanoid (Half-Elf)
-Init: Senses:
-***
-## DEFENSE
-AC 25, touch 16, flat-footed 20 (+2 armor, +2 deflection, +4 Dex, +1 dodge, +7 natural, -1 size)
-hp 144 (9d10+8d8+8 favored class+51)
-Fort +12, Ref +14, Will +19
-***
-## OFFENSE
-Speed 30 ft.
-Melee +2 flail +19/+14/+9 (1d8+5), touch +12 (1d4 Wis drain), and 2 claws +12 (1d4+1)
-Space 5 ft.; Reach 5 ft.
-Special Attacks Channel Negative Energy (4d6, DC 18, 7/day), 
-Scythe of Evil (unholy effect on weapon, 4 rds, 1/day), Strength Surge (+4 Str., 10/day), 
-Touch of Evil (sicken, 4 rds, 10/day), Wisdom Drain
-
-Magus Spells Prepared (CL 9th; concentration +19)
-4th – freedom of movement, poison (DC 23), sending, unholy blight D (DC 21)
-3rd – blindness/deafness (DC 22), cure serious wounds (x2), dispel magic, magic vestment D (already cast), stone shape
-2nd – bear’s endurance, bull’s strength D, cure moderate wounds (x2), death knell (DC 21), sound burst (DC 19)
-1st — command (DC 18), cure light wounds (x3), divine favor, protection from good D, sanctuary (DC 18)
-0th — (at will) detect magic, guidance, mending, read magic
-***
-## TACTICS
-## STATISTICS
-## SPECIAL ABILITIES
+At 8th level, the magus’s ability to cast spells and make melee attacks improves. When using the spell combat ability, the magus receives a +2 circumstance bonus on concentration checks, in addition to any bonus granted by taking an additional penalty on the attack roll.
 
 ***
 ***
+
 # STREGA - SISTER
 Middle Age Female Magus (Card Caster) 9
 N Medium Female Humanoid (Half-Elf)
