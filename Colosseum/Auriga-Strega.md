@@ -1,16 +1,16 @@
 40K Gold to spend. 1-15 per user, excess shared
 
-#STREGA - MOTHER
+# STREGA - MOTHER
 Middle Age Female Magus (Hexcrafter) 9
 N Medium Female Humanoid (Half-Elf)
 Init: Senses:
 ***
-##DEFENSE
+## DEFENSE
 AC 25, touch 16, flat-footed 20 (+2 armor, +2 deflection, +4 Dex, +1 dodge, +7 natural, -1 size)
 hp 144 (9d10+8d8+8 favored class+51)
 Fort +12, Ref +14, Will +19
 ***
-##OFFENSE
+## OFFENSE
 Speed 30 ft.
 Melee +2 flail +19/+14/+9 (1d8+5), touch +12 (1d4 Wis drain), and 2 claws +12 (1d4+1)
 Space 5 ft.; Reach 5 ft.
@@ -25,11 +25,11 @@ Magus Spells Prepared (CL 9th; concentration +19)
 1st — command (DC 18), cure light wounds (x3), divine favor, protection from good D, sanctuary (DC 18)
 0th — (at will) detect magic, guidance, mending, read magic
 ***
-##TACTICS
-##STATISTICS
+## TACTICS
+## STATISTICS
 
 Feats : Extra Arcana + 5
-##SPECIAL ABILITIES
+## SPECIAL ABILITIES
 ### Arcane pool (SU)
 At 1st level, the magus gains a reservoir of mystical arcane energy that he can draw upon to fuel his powers and enhance his weapon. 
 This arcane pool has a number of points equal to 1/2 his magus level (minimum 1) + his Intelligence modifier. 
@@ -87,17 +87,17 @@ Accursed Strike (Sp): A hexcrafter magus who can cast bestow curse, major curse,
 ### Knowledge pool
 ### Improved spell combat
 
-#STREGA - MOTHER
+# STREGA - Sister
 Middle Age Female Magus (Hexcrafter) 9
 N Medium Female Humanoid (Half-Elf)
 Init: Senses:
 ***
-##DEFENSE
+## DEFENSE
 AC 25, touch 16, flat-footed 20 (+2 armor, +2 deflection, +4 Dex, +1 dodge, +7 natural, -1 size)
 hp 144 (9d10+8d8+8 favored class+51)
 Fort +12, Ref +14, Will +19
 ***
-##OFFENSE
+## OFFENSE
 Speed 30 ft.
 Melee +2 flail +19/+14/+9 (1d8+5), touch +12 (1d4 Wis drain), and 2 claws +12 (1d4+1)
 Space 5 ft.; Reach 5 ft.
@@ -112,23 +112,23 @@ Magus Spells Prepared (CL 9th; concentration +19)
 1st — command (DC 18), cure light wounds (x3), divine favor, protection from good D, sanctuary (DC 18)
 0th — (at will) detect magic, guidance, mending, read magic
 ***
-##TACTICS
-##STATISTICS
-##SPECIAL ABILITIES
+## TACTICS
+## STATISTICS
+## SPECIAL ABILITIES
 
 ***
 ***
-#STREGA - MOTHER
-Middle Age Female Magus (Hexcrafter) 9
+# STREGA - SISTER
+Middle Age Female Magus (Card Caster) 9
 N Medium Female Humanoid (Half-Elf)
 Init: Senses:
 ***
-##DEFENSE
+## DEFENSE
 AC 25, touch 16, flat-footed 20 (+2 armor, +2 deflection, +4 Dex, +1 dodge, +7 natural, -1 size)
 hp 144 (9d10+8d8+8 favored class+51)
 Fort +12, Ref +14, Will +19
 ***
-##OFFENSE
+## OFFENSE
 Speed 30 ft.
 Melee +2 flail +19/+14/+9 (1d8+5), touch +12 (1d4 Wis drain), and 2 claws +12 (1d4+1)
 Space 5 ft.; Reach 5 ft.
@@ -143,12 +143,12 @@ Magus Spells Prepared (CL 9th; concentration +19)
 1st — command (DC 18), cure light wounds (x3), divine favor, protection from good D, sanctuary (DC 18)
 0th — (at will) detect magic, guidance, mending, read magic
 ***
-##TACTICS
-##STATISTICS
-##SPECIAL ABILITIES
+## TACTICS
+## STATISTICS
+## SPECIAL ABILITIES
 
-#STREGA - SISTER
-Female Magus (Hexcrafter) 9
+# STREGA - Daughter
+Female Magus (Bladed Scarf Dancer) 6
 LN Medium Female Humanoid (Half-Elf)
 Init: Senses:
 ***
@@ -166,67 +166,6 @@ Scythe of Evil (unholy effect on weapon, 4 rds, 1/day), Strength Surge (+4 Str.,
 Touch of Evil (sicken, 4 rds, 10/day), Wisdom Drain
 
 Magus Spells Prepared (CL 9th; concentration +19)
-4th – freedom of movement, poison (DC 23), sending, unholy blight D (DC 21)
-3rd – blindness/deafness (DC 22), cure serious wounds (x2), dispel magic, magic vestment D (already cast), stone shape
-2nd – bear’s endurance, bull’s strength D, cure moderate wounds (x2), death knell (DC 21), sound burst (DC 19)
-1st — command (DC 18), cure light wounds (x3), divine favor, protection from good D, sanctuary (DC 18)
-0th — (at will) detect magic, guidance, mending, read magic
-***
-##TACTICS
-##STATISTICS
-##SPECIAL ABILITIES
-
-#STREGA - MOTHER
-Middle Age Female Magus (Card Caster) 9
-N Medium Female Humanoid (Half-Elf)
-Init: Senses:
-***
-##DEFENSE
-AC 25, touch 16, flat-footed 20 (+2 armor, +2 deflection, +4 Dex, +1 dodge, +7 natural, -1 size)
-hp 144 (9d10+8d8+8 favored class+51)
-Fort +12, Ref +14, Will +19
-***
-##OFFENSE
-Speed 30 ft.
-Melee +2 flail +19/+14/+9 (1d8+5), touch +12 (1d4 Wis drain), and 2 claws +12 (1d4+1)
-Space 5 ft.; Reach 5 ft.
-Special Attacks Channel Negative Energy (4d6, DC 18, 7/day), 
-Scythe of Evil (unholy effect on weapon, 4 rds, 1/day), Strength Surge (+4 Str., 10/day), 
-Touch of Evil (sicken, 4 rds, 10/day), Wisdom Drain
-
-Magus Spells Prepared (CL 9th; concentration +19)
-4th – freedom of movement, poison (DC 23), sending, unholy blight D (DC 21)
-3rd – blindness/deafness (DC 22), cure serious wounds (x2), dispel magic, magic vestment D (already cast), stone shape
-2nd – bear’s endurance, bull’s strength D, cure moderate wounds (x2), death knell (DC 21), sound burst (DC 19)
-1st — command (DC 18), cure light wounds (x3), divine favor, protection from good D, sanctuary (DC 18)
-0th — (at will) detect magic, guidance, mending, read magic
-***
-##TACTICS
-##STATISTICS
-##SPECIAL ABILITIES
-
-***
-***
-
-#STREGA - DAUGHTER
-Middle Age Female Magus (Scarfdancer) 6
-CN Medium Female Humanoid (Half-Elf)
-Init: Senses:
-***
-##DEFENSE
-AC 25, touch 16, flat-footed 20 (+2 armor, +2 deflection, +4 Dex, +1 dodge, +7 natural, -1 size)
-hp 144 (9d10+8d8+8 favored class+51)
-Fort +12, Ref +14, Will +19
-***
-##OFFENSE
-Speed 30 ft.
-Melee +2 flail +19/+14/+9 (1d8+5), touch +12 (1d4 Wis drain), and 2 claws +12 (1d4+1)
-Space 5 ft.; Reach 5 ft.
-Special Attacks Channel Negative Energy (4d6, DC 18, 7/day), 
-Scythe of Evil (unholy effect on weapon, 4 rds, 1/day), Strength Surge (+4 Str., 10/day), 
-Touch of Evil (sicken, 4 rds, 10/day), Wisdom Drain
-
-Magus Spells Prepared (CL 6th; concentration +19)
 4th – freedom of movement, poison (DC 23), sending, unholy blight D (DC 21)
 3rd – blindness/deafness (DC 22), cure serious wounds (x2), dispel magic, magic vestment D (already cast), stone shape
 2nd – bear’s endurance, bull’s strength D, cure moderate wounds (x2), death knell (DC 21), sound burst (DC 19)
