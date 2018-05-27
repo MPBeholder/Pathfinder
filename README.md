@@ -1,2 +1,2 @@
-# Pathfinder
-Pathfinder Things.
+# Pathfinder Things
+General Pathfinder related things in Markdown format.
