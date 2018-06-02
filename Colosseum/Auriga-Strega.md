@@ -1,4 +1,5 @@
 40K Gold to spend. 1-15 per user, excess shared
+40K - 2,312 (+1 Bladed Scarf) - 315 (Mwk. Scimitar) - 8,400 (2 Mithral Breastplates) = 28,973
 
 # STREGA - MOTHER
 Middle Age Female Magus (Hexcrafter) 9
@@ -8,7 +9,7 @@ N Medium Female Humanoid (Half-Elf)
 Init: +1 Senses: Percetion +9, Low-Light Vision
 ***
 ## DEFENSE
-AC 10, touch 10, flat-footed 10 (+1 (DEX))
+AC 17, touch 11, flat-footed 16 (+1 (DEX) + 6 (Breastplate))
 
 hp 55 (9d8 + 1(FC) + 6(Multitalented))
 
@@ -17,20 +18,20 @@ Fort +6, Ref +4, Will +8
 ## OFFENSE
 Speed 30 ft.
 
-Melee 
+Melee +5/+0 Prehensile Hair (1d3-1) || +3/-2/+3 (Spellstrike) (If Arcane Accuracy, +5 to attack rolls)
 
 Space 5 ft.; Reach 5 ft.
 
 Special Attacks 
 
 Magus Spells Prepared (CL 9th; concentration +9+X)
-* 3rd (3) – blindness/deafness (DC 22), cure serious wounds (x2), dispel magic, magic vestment D (already cast), stone shape
-* 2nd (4) – bear’s endurance, bull’s strength D, cure moderate wounds (x2), death knell (DC 21), sound burst (DC 19)
-* 1st (4) — command (DC 18), cure light wounds (x3), divine favor, protection from good D, sanctuary (DC 18)
-* 0th (5) — (at will) detect magic, guidance, mending, read magic
+* 3rd (3) – Bestow Curse, Bestow Curse, 
+* 2nd (4) – Blindness Deafness, Blindness Deafness, Mirror Image, Blur, Blindness Deafness
+* 1st (4) — Ill Omen, Ill Omen, Ill Omen, Frostbite
+* 0th (5) — Brand x5
 ***
 ## TACTICS
-At the beginning of combat, the Mother activates her Prehensile Hair hex as a standard action and also spends a swift action in order to identify the strongest opponent (and set up for Kirin Style). In following rounds she will Evil-Eye whichever target looks the most threatening, following up with a cackle to keep the debuff active as well as applying a Accursed Hex/Spellstrike with Bestow Curse or Ill Omen. If it seems as though she will be unable to hit the target, she begins using castings of other debuff spells like Ill Omen.
+At the beginning of combat, the Mother activates her Prehensile Hair hex as a standard action and also spends a swift action in order to identify the strongest opponent (and set up for Kirin Style). In following rounds she will Evil-Eye whichever target looks the most threatening, following up with a cackle to keep the debuff active as well as applying a Accursed Hex/Spellstrike with Bestow Curse or Blindness Deafness. If it seems as though she will be unable to hit the target, she begins using castings of other debuff spells like Ill Omen.
 ## STATISTICS
 STR:8 DEX:12 CON:10 INT:22 WIS:10 CHA:9
 
@@ -108,10 +109,10 @@ Middle Age Female Magus (Card Caster) 9
 
 N Medium Female Humanoid (Half-Elf)
 
-Init: +7 Senses: Perception: +8 Low Light Vision
+Init: +3 Senses: Perception: +8 Low Light Vision
 ***
 ## DEFENSE
-AC 19, touch 13, flat-footed 16 (3(DEX) + 6(Armor))
+AC 19, touch 13, flat-footed 16 (3(DEX) + 6(Mithral Breastplate))
 
 hp 55 (9d8 + 1(FC) + 6(Multitalented))
 
@@ -120,16 +121,17 @@ Fort +6, Ref +5, Will +8
 ## OFFENSE
 Speed 30 ft.
 
-Melee +11/+6 || +9/+9/+4 || +14/+9 || +12/+12/+7 Thrown Cards (1d4 + 2)
-
+Melee +6/+1 Scimitar (1d6-1) || +4/-1/+4 Scimitar (1d6-1) Spellstrike
+Ranged +11/+6 (No-Modifier) Thrown Cards (1d4 -1 || +1 (Arcane Strike) || +9/+4/+9 (Spellstrike) || +9/+9/+4 (Rapid Shot) || +7/+7/+2/+7 (Rapid Shot + Spellstrike)
+      
 Space 5 ft.; Reach 5 ft.
 
 Special Attacks
 
 Magus Spells Prepared (CL 9th; concentration +13)
-* 3rd (4) – blindness/deafness (DC 22), cure serious wounds (x2), dispel magic, magic vestment D (already cast), stone shape
-* 2nd (5) – bear’s endurance, bull’s strength D, cure moderate wounds (x2), death knell (DC 21), sound burst (DC 19)
-* 1st (6) — command (DC 18), cure light wounds (x3), divine favor, protection from good D, sanctuary (DC 18)
+* 3rd (3) – Displacement, Haste, Vampiric Touch
+* 2nd (4) – Ablative Barrier, Mirror Image, Umbral Weapon, Armor Lock
+* 1st (5) — Frostbite, Frostbite, Thunderstomp, Thunderstomp, Frostbite
 * 0th (5) — Arcane Mark X5
 ***
 ## TACTICS
@@ -137,7 +139,7 @@ Magus Spells Prepared (CL 9th; concentration +13)
 ## STATISTICS
 STR:8 DEX:16 CON:10 INT:18 WIS:9 CHA:10
 
-Feats: Extra Arcana, Weapon Focus (Cards), Point Blank Shot, Precise Shot, Rapid Shot, Improved Initiative
+Feats: Extra Arcana, Weapon Focus (Cards), Point Blank Shot, Precise Shot, Rapid Shot, Arcane Strike
 
 Racial: Elven Immunities, Dual Minded, Low-Light Vision, Elf Blood, Multitalented
 ## SPECIAL ABILITIES
