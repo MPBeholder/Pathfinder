@@ -122,6 +122,7 @@ Fort +6, Ref +5, Will +8
 Speed 30 ft.
 
 Melee +6/+1 Scimitar (1d6-1) || +4/-1/+4 Scimitar (1d6-1) Spellstrike
+
 Ranged +11/+6 (No-Modifier) Thrown Cards (1d4 -1 || +1 (Arcane Strike) || +9/+4/+9 (Spellstrike) || +9/+9/+4 (Rapid Shot) || +7/+7/+2/+7 (Rapid Shot + Spellstrike)
       
 Space 5 ft.; Reach 5 ft.
