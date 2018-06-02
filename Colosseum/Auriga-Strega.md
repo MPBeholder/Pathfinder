@@ -5,12 +5,12 @@ Middle Age Female Magus (Hexcrafter) 9
 
 N Medium Female Humanoid (Half-Elf)
 
-Init: Senses:
+Init: +1 Senses: Percetion +9, Low-Light Vision
 ***
 ## DEFENSE
-AC 25, touch 16, flat-footed 20 (+2 armor, +2 deflection, +4 Dex, +1 dodge, +7 natural, -1 size)
+AC 10, touch 10, flat-footed 10 (+1 (DEX))
 
-hp 144 (9d10+8d8+8 favored class+51)
+hp 55 (9d8 + 1(FC) + 6(Multitalented))
 
 Fort +6, Ref +4, Will +8
 ***
@@ -30,9 +30,9 @@ Magus Spells Prepared (CL 9th; concentration +9+X)
 * 0th (5) — (at will) detect magic, guidance, mending, read magic
 ***
 ## TACTICS
-At the beginning of combat, the Mother activates her Prehensile Hair hex as a standard action. In following rounds she will Evil-Eye whichever target looks the most threatening, following up with a cackle to keep the debuff active as well as applying a Accursed Hex/Spellstrike with Bestow Curse or Ill Omen. If it seems as though she will be unable to hit the target, she begins using castings of other debuff spells like Ill Omen.
+At the beginning of combat, the Mother activates her Prehensile Hair hex as a standard action and also spends a swift action in order to identify the strongest opponent (and set up for Kirin Style). In following rounds she will Evil-Eye whichever target looks the most threatening, following up with a cackle to keep the debuff active as well as applying a Accursed Hex/Spellstrike with Bestow Curse or Ill Omen. If it seems as though she will be unable to hit the target, she begins using castings of other debuff spells like Ill Omen.
 ## STATISTICS
-STR:8 DEX:12 CON:10 INT:22 WIS:9 CHA:10
+STR:8 DEX:12 CON:10 INT:22 WIS:10 CHA:9
 
 Feats : Extra Arcana + Kirin Style + Kirin Strike + Improved Unarmed + Combat Expertise + Spell Focus (Necromancy)
 
@@ -108,7 +108,7 @@ Middle Age Female Magus (Card Caster) 9
 
 N Medium Female Humanoid (Half-Elf)
 
-Init: Senses:
+Init: +7 Senses: Perception: +8 Low Light Vision
 ***
 ## DEFENSE
 AC 19, touch 13, flat-footed 16 (3(DEX) + 6(Armor))
@@ -137,7 +137,7 @@ Magus Spells Prepared (CL 9th; concentration +13)
 ## STATISTICS
 STR:8 DEX:16 CON:10 INT:18 WIS:9 CHA:10
 
-Feats: Extra Arcana, Weapon Focus (Cards), Point Blank Shot, Precise Shot, Rapid Shot, Overwatch Style
+Feats: Extra Arcana, Weapon Focus (Cards), Point Blank Shot, Precise Shot, Rapid Shot, Improved Initiative
 
 Racial: Elven Immunities, Dual Minded, Low-Light Vision, Elf Blood, Multitalented
 ## SPECIAL ABILITIES
