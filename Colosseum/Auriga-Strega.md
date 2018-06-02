@@ -113,10 +113,10 @@ Space 5 ft.; Reach 5 ft.
 Special Attacks 
 
 Magus Spells Prepared (CL 9th; concentration +14)
-3rd (4) – blindness/deafness (DC 22), cure serious wounds (x2), dispel magic, magic vestment D (already cast), stone shape
-2nd (5) – bear’s endurance, bull’s strength D, cure moderate wounds (x2), death knell (DC 21), sound burst (DC 19)
-1st (6) — command (DC 18), cure light wounds (x3), divine favor, protection from good D, sanctuary (DC 18)
-0th (5) — Arcane Mark X5
+* 3rd (4) – blindness/deafness (DC 22), cure serious wounds (x2), dispel magic, magic vestment D (already cast), stone shape
+* 2nd (5) – bear’s endurance, bull’s strength D, cure moderate wounds (x2), death knell (DC 21), sound burst (DC 19)
+* 1st (6) — command (DC 18), cure light wounds (x3), divine favor, protection from good D, sanctuary (DC 18)
+* 0th (5) — Arcane Mark X5
 ***
 ## TACTICS
 ## STATISTICS
@@ -151,12 +151,12 @@ BAB: +4, CMB + 8, CMD 18
 Special Attacks
 
 Magus Spells Prepared (CL 6th; concentration +8)
-2nd  (3) – Bladed Dash, Frigid Touch, Bladed Dash
-1st (4) — Frostbite, Frostbite, Shield, Mirror Strike
-0th (4) — Arcane Mark, Arcane Mark, Arcane Mark, Arcane Mark
+* 2nd  (3) – Bladed Dash, Frigid Touch, Bladed Dash
+* 1st (4) — Frostbite, Frostbite, Shield, Mirror Strike
+* 0th (4) — Arcane Mark, Arcane Mark, Arcane Mark, Arcane Mark
 ***
-##TACTICS
-##STATISTICS
+## TACTICS
+## STATISTICS
 STR:10 DEX:18 CON:12 INT:14 WIS:10 CHA:9
 Feats: Slashing Grace, Weapon Finesse, ??, Agile Maneuvers
 Racial: Elven Immunities, Dual Minded, Low-Light Vision, Elf Blood, Multitalented
