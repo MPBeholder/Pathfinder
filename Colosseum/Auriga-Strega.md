@@ -136,18 +136,25 @@ Racial: Elven Immunities, Dual Minded, Low-Light Vision, Elf Blood, Multitalente
 # STREGA - Daughter
 Female Magus (Bladed Scarf Dancer) 6
 LN Medium Female Humanoid (Half-Elf)
+
 Init: Senses:
 ***
 ##DEFENSE
 AC 22, touch 22, flat-footed 14 (+4 DEX, +4 Dodge (Canny Defense),+4 (Shield))
+
 hp 41 (6d8 + 6 (CON) + 2 (FC))
+
 Fort +6, Ref +6, Will +7
 ***
 ##OFFENSE
 Speed 30 ft.
+
 Melee +1 Bladed Scarf +10 (1d6+5)
+
 Space 5 ft.; Reach 5 ft.
+
 BAB: +4, CMB + 8, CMD 18
+
 Special Attacks
 
 Magus Spells Prepared (CL 6th; concentration +8)
@@ -158,7 +165,9 @@ Magus Spells Prepared (CL 6th; concentration +8)
 ## TACTICS
 ## STATISTICS
 STR:10 DEX:18 CON:12 INT:14 WIS:10 CHA:9
+
 Feats: Slashing Grace, Weapon Finesse, ??, Agile Maneuvers
+
 Racial: Elven Immunities, Dual Minded, Low-Light Vision, Elf Blood, Multitalented
 ### Arcane Pool
 6/6
