@@ -143,13 +143,19 @@ Feats: Extra Arcana, Weapon Focus (Cards), Point Blank Shot, Precise Shot, Rapid
 
 Racial: Elven Immunities, Dual Minded, Low-Light Vision, Elf Blood, Multitalented
 ## SPECIAL ABILITIES
+Harrowed Spellstrike (SU)
+
+Deadly Dealer (SU)
+
+Arcane Pool Focus (SU)
+
+Role Dealer (SU)
 ### Arcane Pool
 11/11
 
 ### Magus arcana
   * Arcane Accuracy
   * Dispelling Strike
-  * Enduring Blade
   * Pool Ray
 
 # STREGA - Daughter
