@@ -12,18 +12,16 @@ AC 25, touch 16, flat-footed 20 (+2 armor, +2 deflection, +4 Dex, +1 dodge, +7 n
 
 hp 144 (9d10+8d8+8 favored class+51)
 
-Fort +6, Ref +3, Will +6
+Fort +6, Ref +4, Will +8
 ***
 ## OFFENSE
 Speed 30 ft.
 
-Melee +2 flail +19/+14/+9 (1d8+5), touch +12 (1d4 Wis drain), and 2 claws +12 (1d4+1)
+Melee 
 
 Space 5 ft.; Reach 5 ft.
 
-Special Attacks Channel Negative Energy (4d6, DC 18, 7/day), 
-Scythe of Evil (unholy effect on weapon, 4 rds, 1/day), Strength Surge (+4 Str., 10/day), 
-Touch of Evil (sicken, 4 rds, 10/day), Wisdom Drain
+Special Attacks 
 
 Magus Spells Prepared (CL 9th; concentration +9+X)
 * 3rd (3) – blindness/deafness (DC 22), cure serious wounds (x2), dispel magic, magic vestment D (already cast), stone shape
@@ -34,11 +32,13 @@ Magus Spells Prepared (CL 9th; concentration +9+X)
 ## TACTICS
 At the beginning of combat, the Mother activates her Prehensile Hair hex as a standard action. In following rounds she will Evil-Eye whichever target looks the most threatening, following up with a cackle to keep the debuff active as well as applying a Accursed Hex/Spellstrike with Bestow Curse or Ill Omen. If it seems as though she will be unable to hit the target, she begins using castings of other debuff spells like Ill Omen.
 ## STATISTICS
+STR:8 DEX:12 CON:10 INT:22 WIS:9 CHA:10
 
-Feats : Extra Arcana + Kirin Style + Kirin Strike + Improved Unarmed + 2
+Feats : Extra Arcana + Kirin Style + Kirin Strike + Improved Unarmed + Combat Expertise + Spell Focus (Necromancy)
 
 Racial: Elven Immunities, Dual Minded, Low-Light Vision, Elf Blood, Multitalented
 ## SPECIAL ABILITIES
+
 ### Arcane pool (SU)
 At 1st level, the magus gains a reservoir of mystical arcane energy that he can draw upon to fuel his powers and enhance his weapon. 
 This arcane pool has a number of points equal to 1/2 his magus level (minimum 1) + his Intelligence modifier. 
@@ -111,32 +111,33 @@ N Medium Female Humanoid (Half-Elf)
 Init: Senses:
 ***
 ## DEFENSE
-AC 10, touch 10, flat-footed 10 ()
+AC 19, touch 13, flat-footed 16 (3(DEX) + 6(Armor))
 
-hp 49 (9d8 + 1)
+hp 55 (9d8 + 1(FC) + 6(Multitalented))
 
 Fort +6, Ref +5, Will +8
 ***
 ## OFFENSE
 Speed 30 ft.
 
-Melee +10/+5 || +8/+8/+3 || +13/+8 || +11/+11/+6 Thrown Cards (1d4 + 2)
+Melee +11/+6 || +9/+9/+4 || +14/+9 || +12/+12/+7 Thrown Cards (1d4 + 2)
 
 Space 5 ft.; Reach 5 ft.
 
-Special Attacks 
+Special Attacks
 
-Magus Spells Prepared (CL 9th; concentration +14)
+Magus Spells Prepared (CL 9th; concentration +13)
 * 3rd (4) – blindness/deafness (DC 22), cure serious wounds (x2), dispel magic, magic vestment D (already cast), stone shape
 * 2nd (5) – bear’s endurance, bull’s strength D, cure moderate wounds (x2), death knell (DC 21), sound burst (DC 19)
 * 1st (6) — command (DC 18), cure light wounds (x3), divine favor, protection from good D, sanctuary (DC 18)
 * 0th (5) — Arcane Mark X5
 ***
 ## TACTICS
-## STATISTICS
-STR:8 DEX:14 CON:10 INT:20 WIS:9 CHA:10
 
-Feats: Extra Arcana, Weapon Focus (Cards), Point Blank Shot, Precise Shot, Rapid Shot, ??
+## STATISTICS
+STR:8 DEX:16 CON:10 INT:18 WIS:9 CHA:10
+
+Feats: Extra Arcana, Weapon Focus (Cards), Point Blank Shot, Precise Shot, Rapid Shot, Overwatch Style
 
 Racial: Elven Immunities, Dual Minded, Low-Light Vision, Elf Blood, Multitalented
 ## SPECIAL ABILITIES
@@ -146,19 +147,19 @@ Racial: Elven Immunities, Dual Minded, Low-Light Vision, Elf Blood, Multitalente
 ### Magus arcana
   * Arcane Accuracy
   * Dispelling Strike
-  * 
-  * 
+  * Enduring Blade
+  * Pool Ray
 
 # STREGA - Daughter
 Female Magus (Bladed Scarf Dancer) 6
 LN Medium Female Humanoid (Half-Elf)
 
-Init: Senses:
+Init: +4 Senses: Perception +8 Low-Light Vision
 ***
 ## DEFENSE
 AC 22, touch 22, flat-footed 14 (+4 DEX, +4 Dodge (Canny Defense),+4 (Shield))
 
-hp 41 (6d8 + 6 (CON) + 2 (FC))
+hp 47 (6d8 + 6 (CON) + 2 (FC) + 6(Multitalented))
 
 Fort +6, Ref +6, Will +7
 ***
@@ -174,15 +175,16 @@ BAB: +4, CMB + 8, CMD 18
 Special Attacks
 
 Magus Spells Prepared (CL 6th; concentration +8)
-* 2nd  (3) – Bladed Dash, Frigid Touch, Bladed Dash
+* 2nd (3) – Bladed Dash, Frigid Touch, Bladed Dash
 * 1st (4) — Frostbite, Frostbite, Shield, Mirror Strike
 * 0th (4) — Arcane Mark, Arcane Mark, Arcane Mark, Arcane Mark
 ***
 ## TACTICS
+The daughter moves into an agressive location and utilizes Elasticity, Combat Reflexes and Parry/Riposte in order to prevent enemies from reaching her mother and aunt. Particularly difficult to hit enemies can be dealt with through Trip or Disarm in conjunction with Elasticity to prevent attacks of opportunity.
 ## STATISTICS
 STR:10 DEX:18 CON:12 INT:14 WIS:10 CHA:9
 
-Feats: Slashing Grace, Weapon Finesse, ??, Agile Maneuvers
+Feats: Slashing Grace, Weapon Finesse, Combat Reflexes, Agile Maneuvers
 
 Racial: Elven Immunities, Dual Minded, Low-Light Vision, Elf Blood, Multitalented
 ### Arcane Pool
