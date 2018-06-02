@@ -166,7 +166,7 @@ Fort +6, Ref +6, Will +7
 ## OFFENSE
 Speed 30 ft.
 
-Melee +1 Bladed Scarf +10 (1d6+5)
+Melee +1 Bladed Scarf +10 (1d6+5) || +1 Bladed Scarf +8 / +8 (Spellstrike)
 
 Space 5 ft.; Reach 5 ft.
 
