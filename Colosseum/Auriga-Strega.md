@@ -1,5 +1,11 @@
 40K Gold to spend. 1-15 per user, excess shared
-40K - 2,312 (+1 Bladed Scarf) - 315 (Mwk. Scimitar) - 8,400 (2 Mithral Breastplates) = 28,973
+40K - 8,312 (+1 Spell Storing Bladed Scarf) - 315 (Mwk. Scimitar) - 8,400 (2 Mithral Breastplates) - 4000(2 amulet of natural) - 4500 (bracers armor +3) - 5000 (wind fan) - 2250 (3x Heroism) - 900 (3x Cure Moderate) - 1800 (Dust) - 4000 (headband of int +2)= 4,193
+
+ITEMS: Fan, Wind
+3x Potion of Heroism
+3x Cure Moderate Wounds
+1x Dust of Appearance
+3x Everburning Torch
 
 # STREGA - MOTHER
 Middle Age Female Magus (Hexcrafter) 9
@@ -9,7 +15,7 @@ N Medium Female Humanoid (Half-Elf)
 Init: +1 Senses: Percetion +9, Low-Light Vision
 ***
 ## DEFENSE
-AC 17, touch 11, flat-footed 16 (+1 (DEX) + 6 (Breastplate))
+AC 17, touch 11, flat-footed 16 (+1 (DEX) + 6 (Breastplate) + 1 (AMULET NAT)))
 
 hp 55 (9d8 + 1(FC) + 6(Multitalented))
 
@@ -33,7 +39,7 @@ Magus Spells Prepared (CL 9th; concentration +9+X)
 ## TACTICS
 At the beginning of combat, the Mother activates her Prehensile Hair hex as a standard action and also spends a swift action in order to identify the strongest opponent (and set up for Kirin Style). In following rounds she will Evil-Eye whichever target looks the most threatening, following up with a cackle to keep the debuff active as well as applying a Accursed Hex/Spellstrike with Bestow Curse or Blindness Deafness. If it seems as though she will be unable to hit the target, she begins using castings of other debuff spells like Ill Omen.
 ## STATISTICS
-STR:8 DEX:12 CON:10 INT:22 WIS:10 CHA:9
+STR:8 DEX:12 CON:10 INT:24 WIS:10 CHA:9
 
 Feats : Extra Arcana + Kirin Style + Kirin Strike + Improved Unarmed + Combat Expertise + Spell Focus (Necromancy)
 
@@ -112,7 +118,7 @@ N Medium Female Humanoid (Half-Elf)
 Init: +3 Senses: Perception: +8 Low Light Vision
 ***
 ## DEFENSE
-AC 19, touch 13, flat-footed 16 (3(DEX) + 6(Mithral Breastplate))
+AC 20, touch 13, flat-footed 17 (3(DEX) + 6(Mithral Breastplate) + 1 (AMULET NAT))
 
 hp 55 (9d8 + 1(FC) + 6(Multitalented))
 
@@ -166,7 +172,7 @@ LN Medium Female Humanoid (Half-Elf)
 Init: +4 Senses: Perception +8 Low-Light Vision
 ***
 ## DEFENSE
-AC 22, touch 22, flat-footed 14 (+4 DEX, +4 Dodge (Canny Defense),+4 (Shield))
+AC 25, touch 22, flat-footed 17 (+4 DEX, +4 Dodge (Canny Defense),+4 (Shield))
 
 hp 47 (6d8 + 6 (CON) + 2 (FC) + 6(Multitalented))
 
@@ -175,7 +181,7 @@ Fort +6, Ref +6, Will +7
 ## OFFENSE
 Speed 30 ft.
 
-Melee +1 Bladed Scarf +10 (1d6+5) || +1 Bladed Scarf +8 / +8 (Spellstrike)
+Melee +1 Spell Storing Bladed Scarf +10 (1d6+5) || +1 Spell Storing Bladed Scarf +8 / +8 (Spellstrike)
 
 Space 5 ft.; Reach 5 ft.
 
