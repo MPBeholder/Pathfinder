@@ -1,5 +1,5 @@
 40K Gold to spend. 1-15 per user, excess shared
-40K - 8,312 (+1 Spell Storing Bladed Scarf) - 315 (Mwk. Scimitar) - 8,400 (2 Mithral Breastplates) - 4000(2 amulet of natural) - 4500 (bracers armor +3) - 5000 (wind fan) - 2250 (3x Heroism) - 900 (3x Cure Moderate) - 1800 (Dust) - 4000 (headband of int +2)= 4,193
+40K - 8,312 (+1 Spell Storing Bladed Scarf) - 315 (Mwk. Scimitar) - 8,400 (2 Mithral Breastplates) - 4000(2 amulet of natural) - 4500 (bracers armor +3) - 5000 (wind fan) - 2250 (3x Heroism) - 900 (3x Cure Moderate) - 1800 (Dust) - 4000 (headband of int +2)= 193
 
 ITEMS: Fan, Wind
 3x Potion of Heroism
